@@ -1,0 +1,6 @@
+Python generation!
+Help on built-in function len in module builtins:
+
+len(obj, /)
+    Return the number of items in a container.
+
